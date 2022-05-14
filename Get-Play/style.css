@@ -1,0 +1,166 @@
+
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin:0;
+    background-repeat:repeat;
+    background: url(images/pattern.jpg);
+
+}
+.nav{
+    background-color:#023e8a;
+    width: 100%;
+    margin:0;
+    height: auto;
+    position: fixed;
+}
+
+
+
+.main{
+    background-color: black;
+    border: 1px solid darkgrey;
+    margin: 70px auto;
+    padding: 30px;
+    width: 75%;
+    border-radius: 1%;
+    color: white;
+}
+
+.logo-nav{
+    float: left;
+
+
+
+}
+.titre-home{
+    display: block;
+    height: 20px;
+    text-align: center;
+    font-size: x-large;
+
+
+}
+.logo-home{
+    height:200px;
+    width:200px;
+    margin:0 auto;
+    display: block;
+
+
+}
+.bouton-nav{
+    text-decoration: none;
+    font-weight:none;
+    color: white;
+    background-color: black;
+    border-radius:20px;
+    border: 2px solid #023e8a;
+    padding: 5px 9px ;
+    margin: 5px 5px;
+    float: left;
+    height: 20px;
+    
+
+}
+
+.bouton-nav:hover{
+    color:rgb(52, 116, 255);
+
+
+}
+footer{
+    background-color:black;
+    left:0;
+    bottom:0;
+    width:100%;
+    color:black;
+    height:auto;
+}
+
+video{
+    height: 60%;
+    width: 70%;
+    display: block;
+    margin: 0 auto;
+
+}
+.text-footer{
+    text-align: center;
+    color: white;
+
+}
+.text-illustraion{
+    display: block;
+    font-size:large;
+    height: 20px;
+    text-align: justify;
+    color: white;
+    margin:2px;
+
+}
+.text-illustraion:hover{
+color:rgb(52, 116, 255);
+
+
+
+}
+.illustraion-image{
+    height: 130px;
+    width: 150px;
+    
+
+}
+.div-illustraion-images{
+    margin: 5px;
+    display: inline-block;
+    float: left;
+}
+
+.reset-float{
+    clear:both
+}
+
+.lien:hover{
+    color: rgb(0, 0, 255);
+
+}
+
+.text-form{
+    margin:10px 20px ;
+    float: left ;
+
+}
+.inpute-form{
+    float: left;
+    margin:10px 10px ;
+    
+
+}
+.label-form{
+    margin: 6px 10px ;
+    display: inline-block;
+    text-align: right;
+    width: 152px;
+
+
+}
+.input{
+
+    margin: 5px 20px;
+}
+.index-main{
+    width: 300px;
+    margin: 0 auto;
+
+}
+
+
+
+
+
+
+
+
+
+
+
